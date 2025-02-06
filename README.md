@@ -11,3 +11,4 @@ revise task list
 edit index page
 add tenth line
 refresh date
+remove index file
