@@ -40,3 +40,4 @@ small UI tweak - 22
 add todo list logic - 23
 prepare release - 24
 update dependencies - 25
+optimize performance - 26
