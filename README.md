@@ -17,3 +17,4 @@ revise stylesheet
 add first line
 prepare release - 1
 small UI tweak - 2
+improve UI structure - 3
