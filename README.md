@@ -32,3 +32,4 @@ add helper function - 14
 adjust styling - 15
 improve UI structure - 16
 clean up unused code - 17
+fix minor bug - 18
