@@ -48,3 +48,4 @@ add todo list logic - 30
 prepare release - 31
 improve UI structure - 32
 add comments - 33
+small UI tweak - 34
