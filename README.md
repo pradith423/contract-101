@@ -25,3 +25,4 @@ update dependencies - 7
 update documentation - 8
 setup project layout - 9
 improve readability - 10
+improve readability - 11
