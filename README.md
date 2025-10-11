@@ -59,3 +59,4 @@ fix edge case - 41
 fix edge case - 42
 prepare release - 43
 improve error handling - 44
+improve error handling - 45
