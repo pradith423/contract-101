@@ -23,3 +23,4 @@ init project structure - 5
 add helper function - 6
 update dependencies - 7
 update documentation - 8
+setup project layout - 9
