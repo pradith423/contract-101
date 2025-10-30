@@ -38,3 +38,4 @@ update dependencies - 20
 small UI tweak - 21
 small UI tweak - 22
 add todo list logic - 23
+prepare release - 24
