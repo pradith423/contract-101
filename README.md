@@ -50,3 +50,4 @@ improve UI structure - 32
 add comments - 33
 small UI tweak - 34
 fix edge case - 35
+add todo list logic - 36
