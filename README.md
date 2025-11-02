@@ -36,3 +36,4 @@ fix minor bug - 18
 clean up unused code - 19
 update dependencies - 20
 small UI tweak - 21
+small UI tweak - 22
