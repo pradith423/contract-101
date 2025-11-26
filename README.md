@@ -35,3 +35,4 @@ clean up unused code - 17
 fix minor bug - 18
 clean up unused code - 19
 update dependencies - 20
+small UI tweak - 21
