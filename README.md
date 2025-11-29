@@ -29,3 +29,4 @@ improve readability - 11
 improve UI structure - 12
 improve readability - 13
 add helper function - 14
+adjust styling - 15
