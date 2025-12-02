@@ -46,3 +46,4 @@ fix minor bug - 28
 add comments - 29
 add todo list logic - 30
 prepare release - 31
+improve UI structure - 32
