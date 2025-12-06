@@ -42,3 +42,4 @@ prepare release - 24
 update dependencies - 25
 optimize performance - 26
 rename variables - 27
+fix minor bug - 28
