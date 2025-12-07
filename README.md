@@ -15,3 +15,4 @@ remove index file
 revise javascript
 revise stylesheet
 add first line
+prepare release - 1
