@@ -26,3 +26,4 @@ update documentation - 8
 setup project layout - 9
 improve readability - 10
 improve readability - 11
+improve UI structure - 12
